@@ -7,4 +7,4 @@ Programa para sacar información de temperatura comunidad valenciana a través d
 
 Ya preparado para ejecutar en colab, en la GUI introducimos territorio y rango de fechas y el CSV será creado.
 
-![alt text](https://github.com/sanglic/AVAMET_Webscraping_Colab/blob/main/AVAMET_Panel.PNG)raw=true)
+![alt text](https://github.com/sanglic/AVAMET_Webscraping_Colab/blob/main/AVAMET_Panel.PNG?raw=true)
